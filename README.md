@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melissa Alvarez</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melissaalvarez4" alt="melissaalvarez4" /></a> </p>
-
 - 🔭 I’m currently working on [Photography Blog](https://jaimenavas.com/)
 
 - 👨‍💻 All of my projects are available at [https://portafolio-melissa.000webhostapp.com/](https://portafolio-melissa.000webhostapp.com/)
