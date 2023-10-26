@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melissa Alvarez</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Photography Blog](https://jaimenavas.com/)
-
 - 📫 How to reach me **al.melissa_4@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
