@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Photography Blog](https://jaimenavas.com/)
 
-- 👨‍💻 All of my projects are available at [https://portafolio-melissa.000webhostapp.com/](https://portafolio-melissa.000webhostapp.com/)
-
 - 📫 How to reach me **al.melissa_4@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
